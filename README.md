@@ -13,11 +13,11 @@ Warmup: RestClient from odin project
 
 Ruby on Rails
 
-#GEMS
+# GEMS
 
 Rest-Client
 
-#PROTOCOLS
+# PROTOCOLS
 HTTP
 
 **Coded by**
