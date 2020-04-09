@@ -7,6 +7,8 @@ Warmup: RestClient from odin project
 [LETS'S GET BUILDING THE ODIN PAGE](https://www.theodinproject.com/courses/ruby-on-rails/lessons/let-s-get-building#your-task-1)
 
 
+![screenshot](./screenshotrails.gif)
+
 **Description**
 
 Simple repository to save basic projects with the basic structure for Ruby languaje. using Ruby on Rails framework to get HTTP request on browser.
